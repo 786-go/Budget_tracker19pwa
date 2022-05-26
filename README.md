@@ -13,7 +13,7 @@
 
 
 ### Description
-This project was an exercise to see what JavaScript can do and how the webpage comes to life, in addition to using Bootstrap. The basis of the code helps one create online multiple choice quizzes/exams. The purpose of this project was to gain experience in dynamically generated JavaScript and storing data in the user's browser. 
+This project ...
 
 ### Installation
 None. The program runs smoothly in the browser. 
